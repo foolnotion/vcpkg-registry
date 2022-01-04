@@ -1,0 +1,6 @@
+{
+    "name": "cpp-sort",
+    "version": "1.12.1",
+    "description": "Generic C++14 header-only sorting library",
+    "homepage": "https://github.com/morwenn/cpp-sort"
+}
