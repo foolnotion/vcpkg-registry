@@ -1,6 +1,7 @@
 {
     "default": {
         "cpp-sort": { "baseline": "1.12.1", "port-version": 0 },
+        "pratt-parser": { "baseline": "0.1.0", "port-version": 0 },
         "vstat": { "baseline": "1.0.0-beta", "port-version": 0 }
     }
 }
