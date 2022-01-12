@@ -1,7 +1,7 @@
 {
     "versions": [
         {
-            "version": "1.0.0-beta",
+            "version": "1.0.0",
             "git-tree": "38db16cc02818a949ae9fdc61d1f1f26937b9830"
         }
     ]
