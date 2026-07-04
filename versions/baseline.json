@@ -1,9 +1,72 @@
 {
-    "default": {
-        "aria-csv": { "baseline": "1.0.0", "port-version": 0 },
-        "cpp-sort": { "baseline": "1.12.1", "port-version": 0 },
-        "pratt-parser": { "baseline": "0.1.0", "port-version": 0 },
-        "vstat": { "baseline": "1.0.0", "port-version": 0 },
-        "operon": { "baseline": "0.3.0", "port-version": 0 }
+  "default": {
+    "aria-csv": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
+    "asmjit": {
+      "baseline": "git",
+      "port-version": 0
+    },
+    "cpp-sort": {
+      "baseline": "1.12.1",
+      "port-version": 0
+    },
+    "eve": {
+      "baseline": "2023.2.15",
+      "port-version": 0
+    },
+    "fluky": {
+      "baseline": "0.1.0",
+      "port-version": 0
+    },
+    "gtl": {
+      "baseline": "1.2.0",
+      "port-version": 0
+    },
+    "infix-parser": {
+      "baseline": "0.1.0",
+      "port-version": 0
+    },
+    "lbfgs": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
+    "lexy": {
+      "baseline": "2025.05.0",
+      "port-version": 0
+    },
+    "mdspan": {
+      "baseline": "0.6.0",
+      "port-version": 0
+    },
+    "ndsort": {
+      "baseline": "0.1.0",
+      "port-version": 0
+    },
+    "operon": {
+      "baseline": "0.3.0",
+      "port-version": 0
+    },
+    "pappus": {
+      "baseline": "0.1.0",
+      "port-version": 0
+    },
+    "pratt-parser": {
+      "baseline": "0.1.0",
+      "port-version": 0
+    },
+    "small-vector": {
+      "baseline": "0.10.2",
+      "port-version": 0
+    },
+    "taskflow": {
+      "baseline": "4.1.0",
+      "port-version": 0
+    },
+    "vstat": {
+      "baseline": "1.0.0-beta",
+      "port-version": 0
     }
+  }
 }
