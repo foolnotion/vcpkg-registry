@@ -1,6 +1,7 @@
 {
   "name": "pappus",
   "version": "0.1.0",
+  "port-version": 1,
   "description": "Interval and affine arithmetic library",
   "homepage": "https://github.com/heal-research/pappus",
   "dependencies": [

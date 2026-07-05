@@ -1,6 +1,7 @@
 {
   "name": "ndsort",
   "version-string": "0.1.0",
+  "port-version": 1,
   "description": "Generic C++20 non-dominated sorting library.",
   "homepage": "https://github.com/foolnotion/ndsort",
   "dependencies": [

@@ -1,6 +1,7 @@
 {
   "name": "infix-parser",
   "version-string": "0.1.0",
+  "port-version": 1,
   "description": "A fast infix expression parser producing reverse-prefix ASTs.",
   "homepage": "https://github.com/foolnotion/infix-parser",
   "dependencies": [
