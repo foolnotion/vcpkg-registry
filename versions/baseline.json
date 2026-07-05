@@ -18,7 +18,7 @@
     },
     "fluky": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "gtl": {
       "baseline": "1.2.0",
@@ -26,11 +26,11 @@
     },
     "infix-parser": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "lbfgs": {
       "baseline": "1.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "lexy": {
       "baseline": "2025.05.0",
@@ -42,7 +42,7 @@
     },
     "ndsort": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "operon": {
       "baseline": "0.3.0",
@@ -50,7 +50,7 @@
     },
     "pappus": {
       "baseline": "0.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "pratt-parser": {
       "baseline": "0.1.0",
