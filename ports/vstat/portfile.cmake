@@ -1,8 +1,8 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO heal-research/vstat
-    REF dd174d0dcc4a9fe7d15e8667a2ccb69b3870ded7
-    SHA512 4cb7adaf0fb424b454d7864e8d775dd8380a05c48149cc3b4a464c910884a504254d0f277d7082270ebb3fca3a397fd43a91fd4d704af33cece716ff2e3e2364
+    REF 495dca7736cef3db37cf6a8efced065c4befdab1
+    SHA512 897b45e3b9ae96eb1ec408fd38a23b225bd2ec7e0d01e4b1f1b954d08715b299a1f4da4ab8039ccf0f76aa7c280d3c9e7205752ad4a1c0b89f2d052d73f97d08
     HEAD_REF main
 )
 

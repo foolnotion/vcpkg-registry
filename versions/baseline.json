@@ -26,11 +26,11 @@
     },
     "infix-parser": {
       "baseline": "0.1.0",
-      "port-version": 1
+      "port-version": 2
     },
     "lbfgs": {
       "baseline": "1.0.0",
-      "port-version": 1
+      "port-version": 2
     },
     "lexy": {
       "baseline": "2025.05.0",
@@ -42,7 +42,7 @@
     },
     "ndsort": {
       "baseline": "0.1.0",
-      "port-version": 1
+      "port-version": 2
     },
     "operon": {
       "baseline": "0.3.0",
@@ -50,7 +50,7 @@
     },
     "pappus": {
       "baseline": "0.1.0",
-      "port-version": 1
+      "port-version": 2
     },
     "pratt-parser": {
       "baseline": "0.1.0",
@@ -66,7 +66,7 @@
     },
     "vstat": {
       "baseline": "1.0.0-beta",
-      "port-version": 0
+      "port-version": 1
     }
   }
 }
