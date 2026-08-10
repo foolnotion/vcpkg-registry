@@ -1,8 +1,8 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO jfalcou/eve
-    REF 39a07c77527ded5aa00468d7a7daec2c7ca6caad
-    SHA512 4f29e2b3129e9547baa707f70e57459f4701a983e279c9ddd68e7231e65c1eeffc788c95b5c68708cb36a2b2f524961e6eca4bdda03dbe32e77100b04552983c
+    REF 15caeecf12b41aee0aeb0839d3110700fb2a3396
+    SHA512 4509da2b7394e0601c4c23c10cdfbe2784d6bd937f7964ba189092956fd5c4bb1653d9069139657f7e49ccd5a340db139f55e23c75f8a55e11f0a3d17b74085d
     HEAD_REF main
     PATCHES
         fix-clangcl-aligned-alloc.patch
